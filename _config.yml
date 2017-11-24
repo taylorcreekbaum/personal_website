@@ -25,7 +25,7 @@ github_username:  taylorcreekbaum
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
 

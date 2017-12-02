@@ -32,16 +32,15 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: wartree88 # jekyll-seo-tag > Owners twitter username
+author: TaylorCreekbuam # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Taylor Creekbaum # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/wartree88
+    - https://www.facebook.com/tcreekbaum
+    - https://www.linkedin.com/in/taylorcreekbaum/
+    - https://github.com/taylorcreekbaum
 
 # 4. Jekyll settings
 sass:
@@ -69,14 +68,14 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Taylor Creekbaum" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+description: "This is the personal website of Taylor Creekbaum. On it is information about my career, hobbies, side projects, and resumé." # Site description and default description, also used in jekyll-seo-tag
+url: "https://taylorcreekbaum.com" # Site url, also used in jekyll-seo-tag
+repo: "https://github.com/taylorcreekbaum/personal_website/"
+email: "taylorcreekbaum@gmail.com"
 # disqus: "" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: "https://www.gravatar.com/avatar/f3be5f4a1b2fc42391a9ea111d89bcfd" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
@@ -85,18 +84,20 @@ navigation_header:
   Blog: /blog/
   Categories: /categories/
   Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Created by Taylor Creekbaum: https://taylorcreekbaum.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+  Twitter: https://twitter.com/wartree88
+  LinkedIn: https://www.linkedin.com/in/taylorcreekbaum
+  Facebook: https://www.facebook.com/tcreekbaum
+  Instagram: https://www.instagram.com/taylorcreekbaum/
+  #Google+: https://plus.google.com/u/1/110061261533901947283
+  GitHub: https://github.com/taylorcreekbaum/
+  link: https://taylorcreekbaum.com
+  #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#1DA1F2"
@@ -105,7 +106,7 @@ sharing_links: # Appear at the bottom of single blog posts, uncomment and commen
   # Pinterest: "#BD081C"
   # LinkedIn: "#0077B5"
   # tumblr: "#36465D"
-  # Reddit: "#FF4500"
-  # Hacker News: "#ff6600"
+  Reddit: "#FF4500"
+  Hacker News: "#ff6600"
   # Designer News: "#2D72D9"
-  # Email: ""
+  Email: ""

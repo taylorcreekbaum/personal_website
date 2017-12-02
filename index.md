@@ -1,33 +1,21 @@
 ---
-title: About Alembic
+title: About Me
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Taylor Creekbaum
+  A young electrical engineer and coding enthusiast looking to make a splash on this big blue-green ball.
 feature_image: "https://unsplash.it/1300/400?image=971"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "I have a desire to my best and to do right by others in all things I do."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+I'm Taylor, an aspiring electrical engineer and hobbyist programmer. This is my personal website and on it you can find some information about me, my career, hobbies, passions, and side projects. Additionally, the site includes a blog where I hope to document some of the fun experiences I am fortunate enough to have. But first, check out what I'm up to on social media (hint: not much):
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=http://localhost:4000/general/2016/08/29/example-post-three/&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#1DA1F2" %} {% include button.html text="Install Alembic" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/wartree88" color="#1DA1F2" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/taylorcreekbaum" color="#0077B5" %} {% include button.html text="Facebook" icon="facebook" link="https://facebook.com/tcreekbaum" color="#3B5998" %} {% include button.html text="Instagram" icon="instagram" link="https://www.instagram.com/taylorcreekbaum/" color="#E1306C" %}
 
-## Features
+## Career Interests
 
-- Available as a starter kit or as [Jekyll theme gem](http://jekyllrb.com/docs/themes/)
-- Simple and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including IE and Edge
-- Configurable colours and typography in a single settings file
-- Extensive set of shortcodes to include various elements; such as buttons, icons, figure images and more
-- Solid typographic framework from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- Contact form built in using [Formspree](https://formspree.io/)
-- Works on [GitHub Pages](https://pages.github.com/) out of the box
-- Designed with [Siteleaf](http://www.siteleaf.com/) in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+I am an electrical engineer with 5+ years of experience in the power industry. I have experience with low and medium voltage electrical distribution systems that includes both design and reliability aspects. Click the button to see more detailed information about my professional background!
+
+{% include button.html text="Career" link="/career/" %}
 
 ## Examples
 

@@ -1,15 +1,15 @@
 version: 0.1
    
+environment_variables:
+  plaintext:
+    LC_ALL: C.UTF-8
+    ENV LANG: en_US.UTF-8
+    ENV LANGUAGE: en_US.UTF-8
 phases:
   install:
     commands:
       - gem install jekyll bundler
       - bundle update
-  pre_build:
-    commands:
-      - export LC_ALL="en_US.UTF-8"
-      - locale-gen en_US en_US.UTF-8
-      - dpkg-reconfigure locales
   build:
     commands:
       - echo "******** Building Jekyll site ********"

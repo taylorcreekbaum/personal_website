@@ -5,6 +5,10 @@ phases:
     commands:
       - gem install jekyll bundler
       - bundle update
+  pre-build:
+      - export LC_ALL="en_US.UTF-8"
+      - locale-gen en_US en_US.UTF-8
+      - dpkg-reconfigure locales
   build:
     commands:
       - echo "******** Building Jekyll site ********"

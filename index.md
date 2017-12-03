@@ -9,7 +9,7 @@ excerpt: "I have a desire to my best and to do right by others in all things I d
 
 I'm Taylor, an aspiring electrical engineer and hobbyist programmer. This is my personal website and on it you can find some information about me, my career, hobbies, interests, and side projects. Additionally, the site includes a blog where I hope to document some of the fun experiences I am fortunate enough to have. But first, check out what I'm up to on social media (hint: not much):
 
-{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/wartree88" color="#1DA1F2" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/taylorcreekbaum" color="#0077B5" %} {% include button.html text="Facebook" icon="facebook" link="https://facebook.com/tcreekbaum" color="#3B5998" %} {% include button.html text="Instagram" icon="instagram" link="https://www.instagram.com/taylorcreekbaum/" color="#E1306C" %}
+{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/wartree88" color="#1DA1F2" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/taylorcreekbaum" color="#0077B5" %} {% include button.html text="Facebook" icon="facebook" link="https://facebook.com/tcreekbaum" color="#3B5998" %} {% include button.html text="Instagram" icon="instagram" link="https://www.instagram.com/taylorcreekbaum/" color="#E4405F" %}
 
 ## Career Interests
 
@@ -27,10 +27,10 @@ I have been programming in my spare time for the better part of a decade now. It
 
 Here are a few of my hobbies. Click the links to find out more about each one, including accomplishments and side projects.
 
-- [Camping & Hiking](/camping/)
-- [Nutrition/Fitness](/fitness/)
-- [Personal Finance](/finance/)
-- [Astronomy](/astronomy/)
+- [Camping & Hiking](/hobbies/camping/)
+- [Nutrition/Fitness](/hobbies/fitness/)
+- [Personal Finance](/hobbies/finance/)
+- [Astronomy](/hobbies/astronomy/)
 
 ## Blog
 

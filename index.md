@@ -17,11 +17,16 @@ I am an electrical engineer with 5+ years of experience in the power industry. I
 
 {% include button.html text="Career" link="/career/" %}
 
+## Programming
+
+I have been programming in my spare time for the better part of a decade now. It's only for fun (for now), and I can't say I've done anything too profound with my skills, but I enjoy getting lost in an interesting programming problem for hours at a time. Click the button below to see some of my completed coursework and projects.
+
+{% include button.html text="Programming" link = "/programming/"}
+
 ## Hobbies
 
 Here are a few of my hobbies. Click the links to find out more about each one, including accomplishments and side projects.
 
-- [Programming](/programming/)
 - [Camping & Hiking](/camping/)
 - [Nutrition/Fitness](/fitness/)
 - [Personal Finance](/finance/)

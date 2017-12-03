@@ -3,7 +3,7 @@ title: About Me
 feature_text: |
   ## Taylor Creekbaum
   A young electrical engineer and coding enthusiast looking to make a splash on this big blue-green ball.
-feature_image: "/assets/kristopher-roller-110203.jpg"
+feature_image: "/assets/jeremy-thomas-98201.jpg"
 excerpt: "I have a desire to my best and to do right by others in all things I do."
 ---
 

@@ -21,7 +21,7 @@ I am an electrical engineer with 5+ years of experience in the power industry. I
 
 I have been programming in my spare time for the better part of a decade now. It's only for fun (for now), and I can't say I've done anything too profound with my skills, but I enjoy getting lost in an interesting programming problem for hours at a time. Click the button below to see some of my completed coursework and projects.
 
-{% include button.html text="Programming" link = "/programming/"}
+{% include button.html text="Programming" link = "/programming/" %}
 
 ## Hobbies
 

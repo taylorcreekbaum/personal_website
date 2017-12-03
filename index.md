@@ -2,12 +2,12 @@
 title: About Me
 feature_text: |
   ## Taylor Creekbaum
-  A young electrical engineer and coding enthusiast looking to make a splash on this big blue-green ball.
+  An electrical engineer and programming enthusiast looking to use my skills to make a positive impact on the world around me.
 feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: "I have a desire to my best and to do right by others in all things I do."
 ---
 
-I'm Taylor, an aspiring electrical engineer and hobbyist programmer. This is my personal website and on it you can find some information about me, my career, hobbies, passions, and side projects. Additionally, the site includes a blog where I hope to document some of the fun experiences I am fortunate enough to have. But first, check out what I'm up to on social media (hint: not much):
+I'm Taylor, an aspiring electrical engineer and hobbyist programmer. This is my personal website and on it you can find some information about me, my career, hobbies, interests, and side projects. Additionally, the site includes a blog where I hope to document some of the fun experiences I am fortunate enough to have. But first, check out what I'm up to on social media (hint: not much):
 
 {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/wartree88" color="#1DA1F2" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/taylorcreekbaum" color="#0077B5" %} {% include button.html text="Facebook" icon="facebook" link="https://facebook.com/tcreekbaum" color="#3B5998" %} {% include button.html text="Instagram" icon="instagram" link="https://www.instagram.com/taylorcreekbaum/" color="#E1306C" %}
 
